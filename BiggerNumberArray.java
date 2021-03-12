@@ -1,6 +1,7 @@
 package Array;
 
 public class BiggerNumberArray {
+    
     public static void main(String[] args) {
 
         int[] numbers = {6, 45, 367, 23, 97};
