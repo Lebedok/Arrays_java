@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class Array {
 
     public static void main(String[] args) {
+        
         // when we create the array, we must give the size for the array
         int [] ages = new int[5];
 
